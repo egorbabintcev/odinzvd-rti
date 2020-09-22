@@ -1,0 +1,3987 @@
+Uri: https://tehmashrti.com/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/favicon.ico
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://tehmashrti.com/bitrix/js/main/core/css/core.css?1319189996
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\js\main\core\css\core.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/news.list/mainpage_doc/style.css?1319372304
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\news.list\mainpage_doc\style.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/template_styles.css?1552511392
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\template_styles.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/js/fancybox/jquery.fancybox-1.3.4.css
+File Name: C:\Users\Shady\Documents\tehmashrti.com\js\fancybox\jquery.fancybox-1.3.4.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/sitemap/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\sitemap\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/equipment/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\equipment\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/about/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\about\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/documentation/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\documentation\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/description-materials.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\description-materials.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/contacts/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\contacts\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/salniki_manzhety/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\salniki_manzhety\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/lenta/lenta.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\lenta\lenta.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/techmash-pro/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\techmash-pro\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/silfonkorobnezam/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\silfonkorobnezam\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/zashita-shtokov-spectehniki/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\zashita-shtokov-spectehniki\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/prom-tkani/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\prom-tkani\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/prokladki-pom-pmb-afm/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\prokladki-pom-pmb-afm\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/mill-head/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\mill-head\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/futerovka.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\futerovka.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/vtulki/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\vtulki\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/gofrozaschita_napravlyayuschich/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\gofrozaschita_napravlyayuschich\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/shnury/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\shnury\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/remkomplekty/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\remkomplekty\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/zd/zd-prodaga/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\zd\zd-prodaga\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/documentation/applications/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\documentation\applications\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/upload/iblock/a56/tehmash.pdf
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\a56\tehmash.pdf
+Content Type: application/pdf
+
+Uri: https://tehmashrti.com/upload/iblock/fdf/cat-mat.pdf
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\fdf\cat-mat.pdf
+Content Type: application/pdf
+
+Uri: https://tehmashrti.com/upload/iblock/4aa/cat-safe.pdf
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\4aa\cat-safe.pdf
+Content Type: application/pdf
+
+Uri: https://tehmashrti.com/upload/iblock/820/cat-uplot.pdf
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\820\cat-uplot.pdf
+Content Type: application/pdf
+
+Uri: https://tehmashrti.com/silfon/main-info/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\main-info\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/bitrix/js/main/core/core.js?1323169795
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\js\main\core\core.js
+Content Type: application/javascript
+
+Uri: https://tehmashrti.com/bitrix/js/main/core/core_ajax.js?1323169795
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\js\main\core\core_ajax.js
+Content Type: application/javascript
+
+Uri: https://tehmashrti.com/bitrix/js/main/session.js?1319189996
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\js\main\session.js
+Content Type: application/javascript
+
+Uri: https://tehmashrti.com/js/fancybox/jquery.fancybox-1.3.4.pack.js
+File Name: C:\Users\Shady\Documents\tehmashrti.com\js\fancybox\jquery.fancybox-1.3.4.pack.js
+Content Type: application/javascript
+
+Uri: https://tehmashrti.com/js/fancybox/jquery.mousewheel-3.0.4.pack.js
+File Name: C:\Users\Shady\Documents\tehmashrti.com\js\fancybox\jquery.mousewheel-3.0.4.pack.js
+Content Type: application/javascript
+
+Uri: https://tehmashrti.com/js/fancybox/jquery.easing-1.3.pack.js
+File Name: C:\Users\Shady\Documents\tehmashrti.com\js\fancybox\jquery.easing-1.3.pack.js
+Content Type: application/javascript
+
+Uri: https://tehmashrti.com/js/jquery.cycle.lite.js
+File Name: C:\Users\Shady\Documents\tehmashrti.com\js\jquery.cycle.lite.js
+Content Type: application/javascript
+
+Uri: https://tehmashrti.com/upload/head_banner/kompleks.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\head_banner\kompleks.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/head_banner/1.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\head_banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/head_banner/2.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\head_banner\2.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/head_banner/3.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\head_banner\3.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/tehmashrti.com/img-2017-03-07-12-36-27.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\tehmashrti.com\img-2017-03-07-12-36-27.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/dc4/tehmash.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\dc4\tehmash.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/4d3/catalog-proklad.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\4d3\catalog-proklad.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/601/catalog-safe.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\601\catalog-safe.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/f76/catalog-uplot.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f76\catalog-uplot.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/js/main/core/images/wait.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\js\main\core\images\wait.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/bitrix/js/main/core/images/close.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\js\main\core\images\close.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/bitrix/js/main/core/images/panel/sprite03.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\js\main\core\images\panel\sprite03.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/bitrix/js/main/core/images/autosave/autosave-green.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\js\main\core\images\autosave\autosave-green.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/bitrix/js/main/core/images/autosave/autosave-red.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\js\main\core\images\autosave\autosave-red.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/bitrix/js/main/core/images/autosave/autosave-write.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\js\main\core\images\autosave\autosave-write.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/bg-top-right.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\bg-top-right.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/tizer_background.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\tizer_background.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/mail_icon.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\mail_icon.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/russian_map.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\russian_map.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/menu_background.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\menu_background.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/logo_head.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\logo_head.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/li-bg.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\li-bg.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/cert.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\cert.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/bullet.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\bullet.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/tehnology_backgound.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\tehnology_backgound.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/tehnology_dotted.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\tehnology_dotted.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/catalog_background.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\catalog_background.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/footer_shadow.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\footer_shadow.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/footer_logo.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\footer_logo.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/studiointer.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\studiointer.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/images/footer_contact_arrow.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\images\footer_contact_arrow.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/js/fancybox/fancybox.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\js\fancybox\fancybox.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/js/fancybox/blank.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\js\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/js/fancybox/fancybox-x.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\js\fancybox\fancybox-x.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/js/fancybox/fancybox-y.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\js\fancybox\fancybox-y.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/js/fancybox/fancy_title_over.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\js\fancybox\fancy_title_over.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/main.map/sitemap/style.css?1319380061
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\main.map\sitemap\style.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/about/history.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\about\history.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/about/mission.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\about\mission.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/product/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\product\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/contacts/index.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\contacts\index.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/contacts/requisites.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\contacts\requisites.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/contacts/feedback.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\contacts\feedback.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/elastomers/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\elastomers\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/termoplasts/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\termoplasts\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/rodseals/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\rodseals\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/pistonseal/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\pistonseal\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/wipers/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\wipers\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/guide/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\guide\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/backup/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\backup\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/backup/kolza_rezinovye/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\backup\kolza_rezinovye\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/backup/kolza_termostoykie/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\backup\kolza_termostoykie\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/ratate/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\ratate\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/coalseals/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\coalseals\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/coalseals/tmc/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\coalseals\tmc\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/coalseals/tmh/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\coalseals\tmh\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/coalseals/ost1244/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\coalseals\ost1244\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/coalseals/hydrogho/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\coalseals\hydrogho\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/coalseals/photos_buks_mech_krep/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\coalseals\photos_buks_mech_krep\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/coalseals/list_ost/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\coalseals\list_ost\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/o_rings/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\o_rings\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/reinforced_cuffs/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\reinforced_cuffs\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/reinforced_cuffs/importnye/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\reinforced_cuffs\importnye\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/reinforced_cuffs/gost8752/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\reinforced_cuffs\gost8752\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/reinforced_cuffs/rezinovye/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\reinforced_cuffs\rezinovye\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/cuffs_for_hydraulic_cylinders/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\cuffs_for_hydraulic_cylinders\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/pneumatic_cuff/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\pneumatic_cuff\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/cords_round/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\cords_round\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/chevron_cuff/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\chevron_cuff\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/polyurethane_cuff/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\polyurethane_cuff\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/range/nestandart/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\range\nestandart\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/imported_cuffs/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\imported_cuffs\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/imported_cuffs/hallite.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\imported_cuffs\hallite.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/imported_cuffs/simrit.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\imported_cuffs\simrit.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/imported_cuffs/uplotnenie_parker.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\imported_cuffs\uplotnenie_parker.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/imported_cuffs/uplotneniya_economos.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\imported_cuffs\uplotneniya_economos.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/imported_cuffs/uplotneniya_freudenberg.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\imported_cuffs\uplotneniya_freudenberg.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/imported_cuffs/uplotneniya_kastas.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\imported_cuffs\uplotneniya_kastas.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/uplotneniya/imported_cuffs/uplotneniya_skf.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\uplotneniya\imported_cuffs\uplotneniya_skf.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/techmash-pro/pyrojacket/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\techmash-pro\pyrojacket\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/silfons/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\silfons\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/silfonkomp/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\silfonkomp\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/silfonfuter/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\silfonfuter\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/silfonhot/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\silfonhot\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/silfonuniversal/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\silfonuniversal\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/silfonkorobzam/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\silfonkorobzam\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/bellows_an_open_box_section/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\bellows_an_open_box_section\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/telescopic/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\telescopic\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/silfontransport/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\silfontransport\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/ekrans/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\ekrans\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/products/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\products\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/zaschita-shvp/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\zaschita-shvp\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/silfon/zaschita-toka/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\silfon\zaschita-toka\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/prom-tkani/prom-tkani/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\prom-tkani\prom-tkani\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/prom-tkani/termolenty/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\prom-tkani\termolenty\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/prom-tkani/promniti/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\prom-tkani\promniti\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/prom-tkani/promcord/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\prom-tkani\promcord\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/prom-tkani/kombi/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\prom-tkani\kombi\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/mill-head/mill/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\mill-head\mill\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/mill-head/mill-price/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\mill-head\mill-price\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/mill-head/rezka-orgstekla/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\mill-head\rezka-orgstekla\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/mill-head/rezka-pvh/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\mill-head\rezka-pvh\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/mill-head/rezka-plastika/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\mill-head\rezka-plastika\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/mill-head/laser/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\mill-head\laser\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/vtulki/vtulki_polyuretan.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\vtulki\vtulki_polyuretan.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/vtulki/vtulki_rezinoviy.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\vtulki\vtulki_rezinoviy.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/images/dpm_1.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\dpm_1.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/e2b/1800.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\e2b\1800.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/dpm_2.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\dpm_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/news.list/certificate/style.css?1319549845
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\news.list\certificate\style.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/upload/iblock/968/Texmash_Busarova.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\968\Texmash_Busarova.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/e58/zev.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\e58\zev.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/010/xmin.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\010\xmin.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/14b/Texmash_Sagatova.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\14b\Texmash_Sagatova.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/19a/Texmash_Simonyanc.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\19a\Texmash_Simonyanc.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/eb9/oyectbyifhdxgsvdhqvx-afdpzjahpmselxgfyfnemrbt-jwxrnsooyrexbe.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\eb9\oyectbyifhdxgsvdhqvx-afdpzjahpmselxgfyfnemrbt-jwxrnsooyrexbe.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/ea6/ojmraczybodrxpxzckbq-yvomsmldyuyndkfemedntgfq-wcqznsploeygqjkp.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\ea6\ojmraczybodrxpxzckbq-yvomsmldyuyndkfemedntgfq-wcqznsploeygqjkp.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/81b/andzevljekehpmahzuom-iojjctneewrejveoqpyvaccp-pdxoxlbfakocecgiyymi.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\81b\andzevljekehpmahzuom-iojjctneewrejveoqpyvaccp-pdxoxlbfakocecgiyymi.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/4d9/setificat.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\4d9\setificat.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/c8d/Texmash_razresh.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c8d\Texmash_razresh.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/b17/Texmash_cert.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b17\Texmash_cert.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/729/iso.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\729\iso.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/651/k09-n.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\651\k09-n.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/33b/Texmash_Busarova.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\33b\Texmash_Busarova.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/aa9/rev.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\aa9\rev.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/04e/umin.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\04e\umin.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/fb1/Texmash_Sagatova.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\fb1\Texmash_Sagatova.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/6ad/Texmash_Simonyanc.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\6ad\Texmash_Simonyanc.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/00f/icitimgnqugxzxucntpg-jaunzbdjmtnvwvoeivrzpywo-vrqjkfpugkhfml.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\00f\icitimgnqugxzxucntpg-jaunzbdjmtnvwvoeivrzpywo-vrqjkfpugkhfml.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/c31/jbrxegjggruhptagzbbs-jzcalpojicardrphxyoeqjmg-cmmboouxowyzlmiu.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c31\jbrxegjggruhptagzbbs-jzcalpojicardrphxyoeqjmg-cmmboouxowyzlmiu.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/995/cypyejnbmnsnpsfnrnfz-ozutjnoocnaflpeqzrrlejzu-cehtsntgnozwbokdbkjn.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\995\cypyejnbmnsnpsfnrnfz-ozutjnoocnaflpeqzrrlejzu-cehtsntgnozwbokdbkjn.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/d68/setificat.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d68\setificat.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/d9a/Texmash_razresh.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d9a\Texmash_razresh.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/41a/Texmash_cert.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\41a\Texmash_cert.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/4a5/iso.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\4a5\iso.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/c66/k09-n.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c66\k09-n.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/news/news/bitrix/news.list/.default/style.css?1319381545
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\news\news\bitrix\news.list\.default\style.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/news/rss/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\rss\index.xml
+Content Type: text/xml
+
+Uri: https://tehmashrti.com/news/work_time/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\work_time\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/NY2014/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\NY2014\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/new_additional_number_phone/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\new_additional_number_phone\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/Компания+ООО+Одинцовский завод РТИ+на+выставке+УГОЛЬ_МАЙНИНГ+2012/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\Компания ООО Одинцовский завод РТИ на выставке УГОЛЬ_МАЙНИНГ 2012\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/Испытание+ткани+Одинцовский завод РТИ/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\Испытание ткани Одинцовский завод РТИ\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/pasha/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\pasha\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/price-freza/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\price-freza\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/NY2012/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\NY2012\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/complex/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\complex\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/application/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\application\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/Cutting-sheet-metal/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\Cutting-sheet-metal\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/Protective-sleeve-Pyrojacket/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\Protective-sleeve-Pyrojacket\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/news/Technical-documentation/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\news\Technical-documentation\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/news/news/images/gif-light/feed-icon-16x16.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\news\news\images\gif-light\feed-icon-16x16.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/news.list/documentation/style.css?1319372981
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\news.list\documentation\style.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/upload/iblock/e78/tehmash.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\e78\tehmash.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/33d/catalog-proklad.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\33d\catalog-proklad.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/f57/catalog-safe.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f57\catalog-safe.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/68e/catalog-uplot.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\68e\catalog-uplot.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/d73/elastomer.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\d73\elastomer.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/ff7/termoplast.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\ff7\termoplast.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/79d/zmneeimobytm hgvetkwvdn.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\79d\zmneeimobytm hgvetkwvdn.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/salniki_manzhety/vysokotemperaturnye_manzhety.php
+File Name: C:\Users\Shady\Documents\tehmashrti.com\salniki_manzhety\vysokotemperaturnye_manzhety.html
+Content Type: text/html
+
+Uri: https://tehmashrti.com/upload/medialibrary/264/1_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\264\1_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/409/2_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\409\2_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/6ca/3_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\6ca\3_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/72d/4_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\72d\4_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/6bc/5_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\6bc\5_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/87c/6_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\87c\6_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/f80/7_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\f80\7_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/138/8_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\138\8_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/5a8/9_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\5a8\9_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/21c/10_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\21c\10_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/fe3/11_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\fe3\11_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/cc3/12_lenta.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\cc3\12_lenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/DSC03888.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\DSC03888.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/DSC03938.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\DSC03938.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/Gofra/gofra1.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\gofra1.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/sifon01.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\sifon01.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/756/kompensator-chertezh.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\756\kompensator-chertezh.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/upload/medialibrary/715/char50-400.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\715\char50-400.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/upload/medialibrary/d51/sc2.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\d51\sc2.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/upload/medialibrary/d27/sc1.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\d27\sc1.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/upload/medialibrary/785/sc3.gif
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\785\sc3.gif
+Content Type: image/gif
+
+Uri: https://tehmashrti.com/upload/medialibrary/4ec/IMAG0512.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\4ec\IMAG0512.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/095/01.JPG
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\095\01.JPG
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/b62/5241.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\b62\5241.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Gofra/gofr13.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\gofr13.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/f38/IMAG0104.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\f38\IMAG0104.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/zashita-shtokov-01.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\zashita-shtokov-01.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/zashita-shtokov-02.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\zashita-shtokov-02.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/zashita-shtokov-03.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\zashita-shtokov-03.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/zashita-shtokov-04.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\zashita-shtokov-04.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/Fabric/fabric1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Fabric\fabric1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/prokladki-pom-pmb-afm/plotternaya/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\prokladki-pom-pmb-afm\plotternaya\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/prokladki-pom-pmb-afm/paronit/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\prokladki-pom-pmb-afm\paronit\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/prokladki-pom-pmb-afm/aramidseals/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\prokladki-pom-pmb-afm\aramidseals\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/prokladki-pom-pmb-afm/goods/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\prokladki-pom-pmb-afm\goods\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/upload/medialibrary/193/img01.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\193\img01.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/44f/img02.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\44f\img02.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/700/img03.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\700\img03.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/874/img04.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\874\img04.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/51f/img05.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\51f\img05.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/3fc/img06.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\3fc\img06.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/HZ1.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\HZ1.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/HZ2.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\HZ2.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/system.auth.authorize/.default/style.css?1319190439
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\system.auth.authorize\.default\style.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/zd/zd-prodaga/?register=yes
+File Name: C:\Users\Shady\Documents\tehmashrti.com\zd\zd-prodaga\index-1.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/zd/zd-prodaga/?forgot_password=yes
+File Name: C:\Users\Shady\Documents\tehmashrti.com\zd\zd-prodaga\index-2.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/zd/zd-prodaga/?change_password=yes
+File Name: C:\Users\Shady\Documents\tehmashrti.com\zd\zd-prodaga\index-3.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/upload/iblock/6bf/silfon.doc
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\6bf\silfon.doc
+Content Type: application/msword
+
+Uri: https://tehmashrti.com/upload/iblock/24c/opros2.doc
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\24c\opros2.doc
+Content Type: application/msword
+
+Uri: https://tehmashrti.com/upload/iblock/67b/opros1.doc
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\67b\opros1.doc
+Content Type: application/msword
+
+Uri: https://tehmashrti.com/upload/iblock/57b/algoritm.doc
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\57b\algoritm.doc
+Content Type: application/msword
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/main.feedback/template/style.css?1319190439
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\main.feedback\template\style.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/bitrix/tools/captcha.php?captcha_sid=a75eeda232559affdc366fc725c47d21
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\tools\captcha.jpeg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/news.list/materials_kombi/style.css?1319453628
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\news.list\materials_kombi\style.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/materials/pps/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\pps\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/peek/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\peek\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/ptfe5/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\ptfe5\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/ptfe4/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\ptfe4\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/ptfe3/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\ptfe3\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/ptfe2/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\ptfe2\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/ptfe1/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\ptfe1\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/pa6/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\pa6\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/pom/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\pom\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s35-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s35-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s32-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s32-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s2931-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s2931-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s2527-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s2527-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s24-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s24-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s22-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s22-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s22-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s22-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s21-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s21-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s20-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s20-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s19-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s19-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s18-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s18-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s18-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s18-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s17-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s17-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s17-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s17-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s16-b/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s16-b\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s16-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s16-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s1315-t/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s1315-t\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s1012-m/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s1012-m\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s1012-t/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s1012-t\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s09-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s09-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s09-ds/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s09-ds\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s09-d/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s09-d\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s09-es/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s09-es\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s09-e/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s09-e\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s08-pe/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s08-pe\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s08-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s08-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s07-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s07-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s06-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s06-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s06-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s06-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s05-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s05-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s05-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s05-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s04-pd/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s04-pd\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s04-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s04-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s03-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s03-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s03-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s03-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s02-rd/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s02-rd\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s02-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s02-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s02-pd/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s02-pd\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s02-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s02-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s01-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s01-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/s01-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\s01-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/upload/iblock/f84/s35-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f84\s35-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/5b1/s32-pa.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\5b1\s32-pa.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/dd4/s2931-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\dd4\s2931-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/213/s2527-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\213\s2527-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/36f/s24-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\36f\s24-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/b4e/s22-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b4e\s22-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/b73/s22-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b73\s22-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/491/s21-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\491\s21-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d20/s20-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d20\s20-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/db0/s19-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\db0\s19-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/71e/s18-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\71e\s18-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/3cd/s17-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\3cd\s17-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d5f/s17-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d5f\s17-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/fc2/s16-b.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\fc2\s16-b.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/00e/s16-a.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\00e\s16-a.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/0cd/s1315-t.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\0cd\s1315-t.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/b40/s1012-m.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b40\s1012-m.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/03b/s1012-t.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\03b\s1012-t.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/874/s09-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\874\s09-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/3a2/s09-ds.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\3a2\s09-ds.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/9dc/s09-d.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\9dc\s09-d.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/091/s09-es.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\091\s09-es.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/bc1/s09-e.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\bc1\s09-e.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/8ab/s08-pe.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\8ab\s08-pe.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/ee2/s08-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\ee2\s08-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/f05/s07-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f05\s07-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/8c8/s06-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\8c8\s06-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/934/s06-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\934\s06-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/860/s05-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\860\s05-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/81f/s05-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\81f\s05-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/0f8/s04-pd.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\0f8\s04-pd.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/789/s04-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\789\s04-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/4f8/s03-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\4f8\s03-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/06f/s03-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\06f\s03-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/ec9/s02-rd.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\ec9\s02-rd.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/7c1/s02-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\7c1\s02-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/c1f/s02-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c1f\s02-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d31/s02-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d31\s02-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/182/s01-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\182\s01-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/100/s01-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\100\s01-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/materials/k35-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k35-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k32-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k32-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k23-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k23-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k23-d/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k23-d\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k23-h/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k23-h\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k23-n/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k23-n\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k22-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k22-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k22-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k22-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k21-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k21-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k20-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k20-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k19-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k19-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k17-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k17-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k17-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k17-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k16-b/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k16-b\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k16-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k16-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k1315-t/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k1315-t\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k1012-m/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k1012-m\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k1012-t/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k1012-t\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k09-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k09-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k09-d/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k09-d\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k09-h/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k09-h\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k09-n/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k09-n\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k08-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k08-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k08-ds/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k08-ds\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k08-d/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k08-d\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k08-es/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k08-es\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k08-e/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k08-e\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k07-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k07-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k06-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k06-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k06-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k06-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k05-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k05-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k05-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k05-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k04-pd/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k04-pd\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k04-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k04-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k03-s/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k03-s\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k03-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k03-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k03-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k03-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k02-rd/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k02-rd\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k02-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k02-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k02-pd/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k02-pd\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k02-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k02-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k01-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k01-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/k01-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\k01-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/upload/iblock/38b/k35-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\38b\k35-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/77d/k32-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\77d\k32-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/e0c/k23-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\e0c\k23-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/224/k23-d.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\224\k23-d.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/1fa/k23-h.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\1fa\k23-h.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/182/k23-n.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\182\k23-n.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/8a1/k22-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\8a1\k22-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/710/k22-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\710\k22-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/b90/k21-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b90\k21-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/73b/k20-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\73b\k20-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/9a7/k19-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\9a7\k19-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/5b1/k17-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\5b1\k17-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/19a/k17-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\19a\k17-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/5c1/k16-b.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\5c1\k16-b.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/477/k16-a.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\477\k16-a.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/6dd/k1315-t.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\6dd\k1315-t.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/63d/k1012-m.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\63d\k1012-m.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/dfe/k1012-t.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\dfe\k1012-t.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/40f/k09-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\40f\k09-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/927/k09-d.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\927\k09-d.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/3dd/k09-h.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\3dd\k09-h.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/157/k09-n.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\157\k09-n.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/879/k08-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\879\k08-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/dc7/k08-ds.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\dc7\k08-ds.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/c9b/k08-d.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c9b\k08-d.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/a32/k08-es.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\a32\k08-es.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/bcd/k08-e.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\bcd\k08-e.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/81f/k07-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\81f\k07-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/37a/k06-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\37a\k06-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/5a6/k06-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\5a6\k06-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/b45/k05-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b45\k05-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/978/k04-pd.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\978\k04-pd.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/ade/k04-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\ade\k04-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/0df/k03-s.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\0df\k03-s.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/5fb/k03-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\5fb\k03-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/2b9/k03-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\2b9\k03-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/05e/k02-pd.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\05e\k02-pd.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/904/k02-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\904\k02-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/e90/k02-pd.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\e90\k02-pd.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/bfd/k02-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\bfd\k02-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/0cd/k01-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\0cd\k01-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/823/k01-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\823\k01-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/materials/a27-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a27-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a26-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a26-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a25-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a25-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a13-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a13-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a12-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a12-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a11-a-a11-i2/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a11-a-a11-i2\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a11-a-a11-i/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a11-a-a11-i\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a10-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a10-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a09-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a09-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a08-a-a08-b2/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a08-a-a08-b2\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a08-a-a08-b/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a08-a-a08-b\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a06-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a06-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a05-a-a05-i2/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a05-a-a05-i2\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a05-b/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a05-b\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a05-a-a05-i/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a05-a-a05-i\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a04-b/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a04-b\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a04-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a04-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a03-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a03-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a02-a-a02-i2/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a02-a-a02-i2\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a02-b/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a02-b\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a02-a-a02-i/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a02-a-a02-i\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a01-b/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a01-b\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/a01-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\a01-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/upload/iblock/0dc/A27-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\0dc\A27-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d54/A26-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d54\A26-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/356/A25-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\356\A25-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/028/A13-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\028\A13-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/462/A12-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\462\A12-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/346/A11-A-1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\346\A11-A-1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/255/A11-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\255\A11-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/a7b/A10-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\a7b\A10-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/f8e/A09-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f8e\A09-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/382/a08 a.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\382\a08 a.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/3d7/A08-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\3d7\A08-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/eb3/A06-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\eb3\A06-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/026/A05-A-1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\026\A05-A-1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/8dd/A05-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\8dd\A05-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/4e4/a05 a.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\4e4\a05 a.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/541/A04-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\541\A04-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/216/A04-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\216\A04-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/58b/A03-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\58b\A03-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/126/A02-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\126\A02-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/238/A02-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\238\A02-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/9cd/A02-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\9cd\A02-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/41d/A01-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\41d\A01-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/14c/a01 a.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\14c\a01 a.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/materials/f08/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\f08\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/f07/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\f07\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/f06/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\f06\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/f05/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\f05\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/f04/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\f04\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/f03/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\f03\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/f02/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\f02\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/f01/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\f01\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/upload/iblock/bd5/F08.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\bd5\F08.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/f29/F07.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f29\F07.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/063/F06.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\063\F06.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/7a7/F05.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\7a7\F05.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/1d7/F04.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\1d7\F04.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/568/F03.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\568\F03.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/eb6/F02.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\eb6\F02.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/cce/F01.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\cce\F01.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/materials/st13/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\st13\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/st12/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\st12\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/st11/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\st11\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/st10/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\st10\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/st09/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\st09\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/st08/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\st08\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/upload/iblock/1f5/ST13.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\1f5\ST13.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/860/ST12.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\860\ST12.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/79b/ST11.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\79b\ST11.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/f1a/ST10.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f1a\ST10.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/0bc/ST09.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\0bc\ST09.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/a20/ST08.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\a20\ST08.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/materials/r35-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r35-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r30-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r30-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r20-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r20-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r19-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r19-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r13/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r13\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r12-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r12-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r11-f/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r11-f\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r10-f-r10-fs/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r10-f-r10-fs\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r09-f-r09-fs/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r09-f-r09-fs\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r08-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r08-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r07-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r07-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r07-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r07-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r06-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r06-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r06-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r06-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r05-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r05-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r04-a/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r04-a\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r03-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r03-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r03-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r03-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r02-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r02-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r02-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r02-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r01-as/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r01-as\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r01-af/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r01-af\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r01-r/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r01-r\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/r01-p/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\r01-p\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/upload/iblock/4ac/tmpG1yazJ_html_2f0b5266.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\4ac\tmpG1yazJ_html_2f0b5266.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/9a1/tmpG1yazJ_html_m1fce24ca.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\9a1\tmpG1yazJ_html_m1fce24ca.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/db0/tmpG1yazJ_html_71afa061.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\db0\tmpG1yazJ_html_71afa061.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/f0a/tmpG1yazJ_html_55ed8571.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f0a\tmpG1yazJ_html_55ed8571.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d99/tmpG1yazJ_html_506fe133.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d99\tmpG1yazJ_html_506fe133.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/c78/tmpG1yazJ_html_m3bed8c40.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c78\tmpG1yazJ_html_m3bed8c40.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/edd/tmpG1yazJ_html_m43ff61b4.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\edd\tmpG1yazJ_html_m43ff61b4.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/da6/tmpG1yazJ_html_3fcb08c2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\da6\tmpG1yazJ_html_3fcb08c2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/4c4/tmpG1yazJ_html_5d75609c.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\4c4\tmpG1yazJ_html_5d75609c.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/124/tmpG1yazJ_html_724e5a12.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\124\tmpG1yazJ_html_724e5a12.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/04b/tmpG1yazJ_html_7755428b.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\04b\tmpG1yazJ_html_7755428b.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/aca/tmpG1yazJ_html_7f572a44.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\aca\tmpG1yazJ_html_7f572a44.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/de9/tmpG1yazJ_html_m1b4cbb3a.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\de9\tmpG1yazJ_html_m1b4cbb3a.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/7b7/tmpG1yazJ_html_m35a14987.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\7b7\tmpG1yazJ_html_m35a14987.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/53c/tmpG1yazJ_html_m7ffaa5f3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\53c\tmpG1yazJ_html_m7ffaa5f3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/4cf/r09-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\4cf\r09-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/6ff/tmpG1yazJ_html_2c89d09.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\6ff\tmpG1yazJ_html_2c89d09.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/443/tmpG1yazJ_html_29576572.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\443\tmpG1yazJ_html_29576572.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/98c/tmpG1yazJ_html_1e2589da.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\98c\tmpG1yazJ_html_1e2589da.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/034/tmpG1yazJ_html_m434ae7a6.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\034\tmpG1yazJ_html_m434ae7a6.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/bb9/tmpG1yazJ_html_2ca46c47.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\bb9\tmpG1yazJ_html_2ca46c47.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/95f/tmpG1yazJ_html_2ca46c47.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\95f\tmpG1yazJ_html_2ca46c47.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/2a6/tmpG1yazJ_html_1fc5a2b4.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\2a6\tmpG1yazJ_html_1fc5a2b4.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/901/tmpG1yazJ_html_m3d26d7d3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\901\tmpG1yazJ_html_m3d26d7d3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/3ab/kant.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\3ab\kant.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/587/specuglemash.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\587\specuglemash.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/360/rostovgormash_1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\360\rostovgormash_1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/b77/rostovgormash_2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\b77\rostovgormash_2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/388/ynbilv1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\388\ynbilv1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/af5/dktpnm2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\af5\dktpnm2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/bb1/krepi.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\bb1\krepi.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/0f7/krepi2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\0f7\krepi2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/a7b/thumb_kant.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\a7b\thumb_kant.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/aeb/thumb_specuglemash.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\aeb\thumb_specuglemash.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/fff/thumb_rostovgormash_1.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\fff\thumb_rostovgormash_1.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/5be/thumb_rostovgormash_2.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\5be\thumb_rostovgormash_2.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/769/thumb_bybtib1.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\769\thumb_bybtib1.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/0b0/thumb_whwkbb2.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\0b0\thumb_whwkbb2.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/532/kolco.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\532\kolco.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/837/gormash.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\837\gormash.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/COAL/TMCC.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\COAL\TMCC.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/COAL/tmcc1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\COAL\tmcc1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/COAL/TMHH.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\COAL\TMHH.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/COAL/tmhh1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\COAL\tmhh1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/COAL/TMH.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\COAL\TMH.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/COAL/tmh1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\COAL\tmh1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/COAL/TMC.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\COAL\TMC.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/COAL/tmc1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\COAL\tmc1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/ad8/1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\ad8\1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/8fc/2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\8fc\2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/59e/3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\59e\3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/e50/4.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\e50\4.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/3ab/5.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\3ab\5.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/7c6/6.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\7c6\6.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/bc5/7.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\bc5\7.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/ad2/8.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\ad2\8.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/b26/9.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\b26\9.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/576/10.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\576\10.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/22a/11.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\22a\11.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/c68/12.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\c68\12.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/352/13.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\352\13.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/5da/14.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\5da\14.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/3a9/15.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\3a9\15.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/e94/1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\e94\1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/8c1/2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\8c1\2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/d15/3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\d15\3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/f04/4.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\f04\4.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/d39/chertezh_1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\d39\chertezh_1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/2be/chertezh_2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\2be\chertezh_2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/041/chertezh_3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\041\chertezh_3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/64f/chertezh_4.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\64f\chertezh_4.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/8a0/chertezh_5.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\8a0\chertezh_5.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/3fc/chertezh_6.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\3fc\chertezh_6.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/2ad/5.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\2ad\5.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/516298.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\516298.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/Gofra/silfon-hot2.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\silfon-hot2.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/Gofra/silfon-hot1.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\silfon-hot1.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/Gofra/silf3.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\silf3.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/Gofra/silf4.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\silf4.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/Gofra/gofr1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\gofr1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Gofra/gofr2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\gofr2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Gofra/gofr3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\gofr3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Gofra/gofr4.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\gofr4.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Gofra/gofr10.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\gofr10.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Gofra/gofr7.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\gofr7.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Gofra/gofr8.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\gofr8.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Gofra/gofr11.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Gofra\gofr11.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/003.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\003.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/sertif01.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\sertif01.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/sifon03.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\sifon03.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/silfon-shema.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\silfon-shema.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/tagmet.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\tagmet.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/3da/IMAG0101.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\3da\IMAG0101.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/Fabric/lenta1.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Fabric\lenta1.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/Fabric/niti.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Fabric\niti.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/materials/tex/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\tex\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/steklotkan/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\steklotkan\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/pvc/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\pvc\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/materials/kevlar/
+File Name: C:\Users\Shady\Documents\tehmashrti.com\materials\kevlar\index.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/upload/iblock/b62/tex.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b62\tex.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/6bc/steklotkan.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\6bc\steklotkan.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/d5d/pvc.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d5d\pvc.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/228/kevlar.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\228\kevlar.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/4.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\4.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/6.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\6.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/5.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\5.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/8.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\8.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/1.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\1.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/2.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\2.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/3.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\3.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/d17/final.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\d17\final.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/fdd/PoliuretanVtluki2.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\fdd\PoliuretanVtluki2.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/dc1/PoliuretanVtluki4.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\dc1\PoliuretanVtluki4.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/3c6/PoliuretanVtluki6.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\3c6\PoliuretanVtluki6.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/d47/PoliuretanVtluki7.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\d47\PoliuretanVtluki7.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/45a/PoliuretanVtluki12.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\45a\PoliuretanVtluki12.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/e78/PoliuretanVtluki13.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\e78\PoliuretanVtluki13.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/343/NY2014.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\343\NY2014.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/1f7/main1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\1f7\main1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/d3b/main2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\d3b\main2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/b80/main3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\b80\main3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/6c8/main4.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\6c8\main4.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/5cf/pashcvetya.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\5cf\pashcvetya.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/8eb/NY2012.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\8eb\NY2012.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/plotter01.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\plotter01.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/plotter02.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\plotter02.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/paronit-list.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\paronit-list.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/paronit-obraz.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\paronit-obraz.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/medialibrary/330/03.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\330\03.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/d7e/05.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\d7e\05.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/b91/06.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\b91\06.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/aeb/07.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\aeb\07.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/2ba/08.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\2ba\08.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/316/09.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\316\09.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/938/10.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\938\10.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/7c5/11.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\7c5\11.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/449/12.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\449\12.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/8e8/13.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\8e8\13.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/98b/14.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\98b\14.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/2cb/15.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\2cb\15.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/c09/16.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\c09\16.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/182/17.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\182\17.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/1a0/18.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\1a0\18.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/2fa/19.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\2fa\19.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/659/20.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\659\20.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/666/21.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\666\21.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/medialibrary/f9a/22.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\medialibrary\f9a\22.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/GBC.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\GBC.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/01.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\01.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/02.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\02.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/03.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\03.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/prokladka.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\prokladka.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/system.auth.authorize/.default/images/sec.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\system.auth.authorize\.default\images\sec.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/system.auth.authorize/.default/images/sec-unlocked.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\system.auth.authorize\.default\images\sec-unlocked.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/zd/zd-prodaga/?login=yes
+File Name: C:\Users\Shady\Documents\tehmashrti.com\zd\zd-prodaga\index-4.htm
+Content Type: text/html
+
+Uri: https://tehmashrti.com/bitrix/templates/tehmash/components/bitrix/news/material/bitrix/news.detail/material_detail/style.css?1319450697
+File Name: C:\Users\Shady\Documents\tehmashrti.com\bitrix\templates\tehmash\components\bitrix\news\material\bitrix\news.detail\material_detail\style.css
+Content Type: text/css
+
+Uri: https://tehmashrti.com/upload/iblock/569/s35-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\569\s35-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S35-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S35-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/smont.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\smont.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/199/s32-pa.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\199\s32-pa.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S32-.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S32-.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/smont12.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\smont12.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/5a7/s2931-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\5a7\s2931-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S2931-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S2931-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/226/s2527-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\226\s2527-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S2527-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S2527-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/smont25.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\smont25.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/dc8/s24-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\dc8\s24-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S24-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S24-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/b33/s22-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b33\s22-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S22-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S22-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/smont22.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\smont22.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d68/s22-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d68\s22-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S22-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S22-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/df7/s21-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\df7\s21-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S21-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S21-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/276/s20-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\276\s20-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S20-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S20-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/8a4/s19-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\8a4\s19-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S19-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S19-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/smont03.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\smont03.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S18-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S18-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/669/s18-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\669\s18-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S18-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S18-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/512/s17-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\512\s17-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S17-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S17-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d1a/s17-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d1a\s17-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S17-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S17-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/80a/s16-b.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\80a\s16-b.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S16-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S16-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/smont16.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\smont16.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/240/s16-a.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\240\s16-a.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/558/s1315-t.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\558\s1315-t.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S1315-T.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S1315-T.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/91b/s1012-m.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\91b\s1012-m.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S1012-M.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S1012-M.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/8c6/s1012-t.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\8c6\s1012-t.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S1012-T.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S1012-T.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/96e/s09-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\96e\s09-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S09-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S09-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/smont10.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\smont10.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/cc7/s09-ds.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\cc7\s09-ds.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S09-DS.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S09-DS.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/smont09.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\smont09.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/0d5/s09-d.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\0d5\s09-d.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S09-D.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S09-D.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/7b6/s09-es.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\7b6\s09-es.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S09-ES.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S09-ES.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d9b/s09-e.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d9b\s09-e.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S09-E.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S09-E.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/840/s08-pe.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\840\s08-pe.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S08-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S08-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/f91/s08-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f91\s08-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/508/s07-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\508\s07-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S07-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S07-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/125/s06-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\125\s06-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S06-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S06-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/852/s06-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\852\s06-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S06-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S06-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/5e0/s05-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\5e0\s05-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S05-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S05-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d3c/s05-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d3c\s05-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S05-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S05-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/ce7/s04-pd.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\ce7\s04-pd.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S04-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S04-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/138/s04-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\138\s04-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d24/s03-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d24\s03-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S03-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S03-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/161/s03-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\161\s03-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S03-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S03-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/ddf/s02-rd.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\ddf\s02-rd.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S02-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S02-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/12a/s02-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\12a\s02-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/221/s02-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\221\s02-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/0d4/s02-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\0d4\s02-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/a7c/s01-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\a7c\s01-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/a2e/s01-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\a2e\s01-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/S1/S01.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\S1\S01.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/983/k35-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\983\k35-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K35-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K35-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont35.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont35.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/62a/k32-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\62a\k32-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K32-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K32-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont32.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont32.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/99c/k23-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\99c\k23-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K23-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K23-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont23.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont23.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/5c6/k23-d.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\5c6\k23-d.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K23-D.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K23-D.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/20e/k23-h.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\20e\k23-h.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K23-H.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K23-H.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/52d/k23-n.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\52d\k23-n.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K23-N.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K23-N.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/287/k22-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\287\k22-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K22-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K22-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont22.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont22.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/48e/k22-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\48e\k22-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K22-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K22-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/62e/k21-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\62e\k21-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K21-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K21-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont21.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont21.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/0e1/k20-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\0e1\k20-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K20-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K20-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont20.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont20.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/1be/k19-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\1be\k19-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K19-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K19-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont19.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont19.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/5ec/k17-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\5ec\k17-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K17-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K17-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont9.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont9.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/c0c/k17-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c0c\k17-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K17-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K17-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/630/k16-b.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\630\k16-b.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K16-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K16-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont16.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont16.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/23b/k16-a.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\23b\k16-a.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d9d/k1315-t.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d9d\k1315-t.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K1315-T.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K1315-T.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont10.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont10.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/836/k1012-m.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\836\k1012-m.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K1012-M.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K1012-M.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/b28/k1012-t.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b28\k1012-t.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K1012-T.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K1012-T.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/27b/k09-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\27b\k09-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K09-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K09-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/46a/k09-d.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\46a\k09-d.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K09-D.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K09-D.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/2c2/k09-h.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\2c2\k09-h.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K09-H.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K09-H.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/f6e/k09-n.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f6e\k09-n.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K09-N.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K09-N.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/a40/k08-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\a40\k08-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K08-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K08-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont8.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont8.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/614/k08-ds.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\614\k08-ds.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K08-DS.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K08-DS.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/4df/k08-d.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\4df\k08-d.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K08-D.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K08-D.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/1da/k08-es.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\1da\k08-es.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K08-ES.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K08-ES.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/1f2/k08-e.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\1f2\k08-e.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K08-E.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K08-E.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/8cf/k07-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\8cf\k07-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/432/k06-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\432\k06-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K06-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K06-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/dc8/k06-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\dc8\k06-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K06-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K06-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K05-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K05-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/aaf/k05-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\aaf\k05-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K05-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K05-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/3b4/k04-pd.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\3b4\k04-pd.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K04-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K04-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/8b1/k04-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\8b1\k04-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/fcc/k03-s.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\fcc\k03-s.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K03-S.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K03-S.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/kmont3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\kmont3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/c40/k03-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c40\k03-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K03-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K03-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/861/k03-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\861\k03-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K03-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K03-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/7a5/k02-pd.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\7a5\k02-pd.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K02-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K02-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/d6c/k02-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\d6c\k02-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/edf/k02-pd.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\edf\k02-pd.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K02-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K02-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/9df/k02-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\9df\k02-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/82f/k01-r.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\82f\k01-r.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K01-R.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K01-R.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/a6f/k01-p.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\a6f\k01-p.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/K1/K01-P.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\K1\K01-P.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/3a9/A27-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\3a9\A27-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/0ba/A26-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\0ba\A26-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A26-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A26-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/amont25.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\amont25.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/032/A25-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\032\A25-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A25-F.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A25-F.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/c14/A13-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c14\A13-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A13-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A13-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/amont13.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\amont13.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/762/A12-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\762\A12-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A12-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A12-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/amont12.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\amont12.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/49d/A11-A-1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\49d\A11-A-1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A11-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A11-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/amont.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\amont.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/ef4/A11-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\ef4\A11-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/89c/A10-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\89c\A10-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A10-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A10-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/amont10.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\amont10.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/c7a/A09-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c7a\A09-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A09-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A09-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/amont9.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\amont9.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/7a7/a08 a.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\7a7\a08 a.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A08-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A08-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/amont8.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\amont8.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/979/A08-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\979\A08-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/b00/A06-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b00\A06-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A06-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A06-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/amont3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\amont3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/e56/A05-A-1.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\e56\A05-A-1.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A05-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A05-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/473/A05-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\473\A05-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A05-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A05-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/f2e/a05 a.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f2e\a05 a.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/238/A04-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\238\A04-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A04-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A04-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/8de/A04-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\8de\A04-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A04-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A04-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/f89/A03-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f89\A03-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A03-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A03-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/3ab/A02-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\3ab\A02-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A02-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A02-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/bf8/A02-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\bf8\A02-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A02-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A02-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/647/A02-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\647\A02-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/10a/A01-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\10a\A01-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A01-B.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A01-B.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/457/a01 a.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\457\a01 a.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/images/stories/Seals/A1/A01-A.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\A1\A01-A.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/547/F08.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\547\F08.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/F08.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\F08.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/fmont8.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\fmont8.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/564/F07.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\564\F07.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/F07.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\F07.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/fmont7.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\fmont7.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/fbf/F06.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\fbf\F06.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/F06.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\F06.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/fmont6.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\fmont6.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/c75/F05.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c75\F05.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/F05.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\F05.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/fmont5.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\fmont5.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/ed7/F04.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\ed7\F04.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/F04.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\F04.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/fmont4.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\fmont4.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/77c/F03.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\77c\F03.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/F03.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\F03.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/fmont3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\fmont3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/233/F02.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\233\F02.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/F02.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\F02.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/fmont2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\fmont2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/5a0/F01.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\5a0\F01.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/F01.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\F01.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/F1/fmont.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\F1\fmont.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/3eb/ST13.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\3eb\ST13.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/ST/ST13.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\ST\ST13.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/ST/stmont13.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\ST\stmont13.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/e62/ST12.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\e62\ST12.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/ST/ST12.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\ST\ST12.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/ST/stmont12.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\ST\stmont12.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/239/ST11.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\239\ST11.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/ST/ST11.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\ST\ST11.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/ST/stmont11.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\ST\stmont11.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/9a6/ST10.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\9a6\ST10.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/ST/ST10.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\ST\ST10.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/ST/stmont10.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\ST\stmont10.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/079/ST09.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\079\ST09.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/ST/ST09.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\ST\ST09.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/ST/stmont.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\ST\stmont.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/0a6/ST08.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\0a6\ST08.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/images/stories/Seals/ST/ST08.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\images\stories\Seals\ST\ST08.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/dc2/tmpG1yazJ_html_2f0b5266.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\dc2\tmpG1yazJ_html_2f0b5266.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_m767f50b4.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_m767f50b4.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/09b/tmpG1yazJ_html_m1fce24ca.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\09b\tmpG1yazJ_html_m1fce24ca.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_m1c65b428.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_m1c65b428.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/97c/tmpG1yazJ_html_71afa061.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\97c\tmpG1yazJ_html_71afa061.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/772/tmpG1yazJ_html_55ed8571.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\772\tmpG1yazJ_html_55ed8571.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_21fb420c.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_21fb420c.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/c87/tmpG1yazJ_html_506fe133.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\c87\tmpG1yazJ_html_506fe133.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_m7c100f9a.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_m7c100f9a.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/fd6/tmpG1yazJ_html_m3bed8c40.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\fd6\tmpG1yazJ_html_m3bed8c40.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_m59a55ab2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_m59a55ab2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/a49/tmpG1yazJ_html_m43ff61b4.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\a49\tmpG1yazJ_html_m43ff61b4.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_3ddd0f81.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_3ddd0f81.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/b91/tmpG1yazJ_html_3fcb08c2.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b91\tmpG1yazJ_html_3fcb08c2.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_33423b2c.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_33423b2c.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/9cf/tmpG1yazJ_html_5d75609c.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\9cf\tmpG1yazJ_html_5d75609c.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_4a94e7ca.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_4a94e7ca.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/fe2/tmpG1yazJ_html_724e5a12.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\fe2\tmpG1yazJ_html_724e5a12.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_m673bccce.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_m673bccce.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/ebc/tmpG1yazJ_html_7755428b.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\ebc\tmpG1yazJ_html_7755428b.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_53a023f9.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_53a023f9.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/b00/tmpG1yazJ_html_7f572a44.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\b00\tmpG1yazJ_html_7f572a44.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/004/tmpG1yazJ_html_m1b4cbb3a.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\004\tmpG1yazJ_html_m1b4cbb3a.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/5ee/tmpG1yazJ_html_m35a14987.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\5ee\tmpG1yazJ_html_m35a14987.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/a61/tmpG1yazJ_html_m7ffaa5f3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\a61\tmpG1yazJ_html_m7ffaa5f3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_mf7e1484.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_mf7e1484.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/7a4/r09-f.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\7a4\r09-f.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_m178d99d3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_m178d99d3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/20b/tmpG1yazJ_html_2c89d09.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\20b\tmpG1yazJ_html_2c89d09.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_879a1e9.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_879a1e9.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/f18/tmpG1yazJ_html_29576572.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\f18\tmpG1yazJ_html_29576572.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/e7e/tmpG1yazJ_html_1e2589da.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\e7e\tmpG1yazJ_html_1e2589da.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_m486d522c.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_m486d522c.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/7dd/tmpG1yazJ_html_m434ae7a6.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\7dd\tmpG1yazJ_html_m434ae7a6.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/968/tmpG1yazJ_html_2ca46c47.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\968\tmpG1yazJ_html_2ca46c47.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/uplotneniya/tmpYywLxs_html_6c73c8da.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\uplotneniya\tmpYywLxs_html_6c73c8da.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/692/tmpG1yazJ_html_2ca46c47.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\692\tmpG1yazJ_html_2ca46c47.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/8de/tmpG1yazJ_html_1fc5a2b4.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\8de\tmpG1yazJ_html_1fc5a2b4.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/766/tmpG1yazJ_html_m3d26d7d3.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\766\tmpG1yazJ_html_m3d26d7d3.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/seal/R01-P/tmpG1yazJ_html_m486d522c.png
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\seal\R01-P\tmpG1yazJ_html_m486d522c.png
+Content Type: image/png
+
+Uri: https://tehmashrti.com/upload/iblock/fcf/tex.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\fcf\tex.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/1f8/steklotkan.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\1f8\steklotkan.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/909/pvc.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\909\pvc.jpg
+Content Type: image/jpeg
+
+Uri: https://tehmashrti.com/upload/iblock/737/kevlar.jpg
+File Name: C:\Users\Shady\Documents\tehmashrti.com\upload\iblock\737\kevlar.jpg
+Content Type: image/jpeg
